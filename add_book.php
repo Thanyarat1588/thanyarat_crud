@@ -82,6 +82,8 @@ if (isset($_POST['submit'])) {
         </div>
     </div>
 
+    Thanyarat Thamee
+
 </body>
 
 </html>
